@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\squiq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\squiq\\.nuget\\packages"
+    ]
+  }
+}
